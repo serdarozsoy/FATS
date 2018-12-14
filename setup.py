@@ -5,14 +5,14 @@ import os
 
 REPO_DIR = os.path.dirname(os.path.realpath(__file__))
 
-
+"""
 # Get the long description from the relevant file
 # with open(path.join(here, 'DESCRIPTION.rst'), encoding='utf-8') as f:
 #     long_description = f.read()
 def readme():
     with open('README.rst') as f:
         return f.read()
-
+"""
 
 def get_requirements():
     """Parses and returns installation requirements."""
