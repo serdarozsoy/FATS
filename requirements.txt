@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 matplotlib==2.1.0
 pandas==0.13.1
 statsmodels==0.8.0
+=======
+matplotlib==2.1.0
+pandas==0.13.1
+statsmodels==0.8.0
+>>>>>>> e5e6c78995f79de751f6aa5e3ad47cb15bd3fffc
